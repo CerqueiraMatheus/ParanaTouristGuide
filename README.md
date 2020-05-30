@@ -10,9 +10,9 @@ São apresentadas três seções:
 
   * **Mapa**: exibe a marcação das cidades selecionadas, ligadas por linha.
 
-  * **Cidades**: textos referentes à cada cidade.
+  * **Conheça**: textos referentes à cada cidade.
 
-  * **Agradecimentos**: tela de agradecimentos ao professor e à instituição.
+  * **Sobre**: tela de agradecimentos ao professor e à instituição.
 
 
 <div align="center">
