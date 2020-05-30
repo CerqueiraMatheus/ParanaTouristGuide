@@ -8,11 +8,11 @@ Baixe em: [https://github.com/cerqueiramatheus/ParanaTouristGuide/blob/master/gu
 
 São apresentadas três seções: 
 
-⋅⋅* *Mapa*: exibe a marcação das cidades selecionadas, ligadas por linha.
+  * **Mapa**: exibe a marcação das cidades selecionadas, ligadas por linha.
 
-⋅⋅* *Cidades*: textos referentes à cada cidade.
+  * **Cidades**: textos referentes à cada cidade.
 
-⋅⋅* *Agradecimentos*: tela de agradecimentos ao professor e à instituição.
+  * **Agradecimentos**: tela de agradecimentos ao professor e à instituição.
 
 
 <div align="center">
