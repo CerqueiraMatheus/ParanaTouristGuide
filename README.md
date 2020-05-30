@@ -2,6 +2,8 @@
 
 Projeto desenvolvido para a Unidade Curricular "História e Geografia do Paraná", ministrada pelo professor Hugo Emmanuel da Rosa Correa, no IFPR Jacarezinho. A proposta era a elaboração de um guia turístico como avaliação final da Unidade Curricular, de formato livre.
 
+Baixe em:
+
 ## Estruturação
 
 São apresentadas três seções: 
